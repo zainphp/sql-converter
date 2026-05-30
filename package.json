@@ -3,22 +3,22 @@
         "url": "https://github.com/dominosaurs/sql-converter/issues"
     },
     "dependencies": {
-        "react": "^19.2.5",
-        "react-dom": "^19.2.5"
+        "react": "^19.2.6",
+        "react-dom": "^19.2.6"
     },
     "description": "Browser-side MariaDB/MySQL dump to SQLite SQL converter with large-file streaming.",
     "devDependencies": {
-        "@babel/core": "^7.29.0",
-        "@biomejs/biome": "2.4.12",
+        "@babel/core": "^7.29.7",
+        "@biomejs/biome": "2.4.16",
         "@rolldown/plugin-babel": "^0.2.3",
-        "@types/bun": "^1.3.13",
-        "@types/react": "^19.2.14",
+        "@types/bun": "^1.3.14",
+        "@types/react": "^19.2.15",
         "@types/react-dom": "^19.2.3",
-        "@vitejs/plugin-react": "^6.0.1",
+        "@vitejs/plugin-react": "^6.0.2",
         "babel-plugin-react-compiler": "^1.0.0",
-        "knip": "^6.7.0",
+        "knip": "^6.14.2",
         "typescript": "^6.0.3",
-        "vite": "^8.0.10"
+        "vite": "^8.0.14"
     },
     "homepage": "https://dominosaurs.github.io/sql-converter/",
     "keywords": [
