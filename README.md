@@ -2,7 +2,7 @@
 
 SQL Converter converts MariaDB/MySQL `.sql` dump files into SQLite-compatible SQL in the browser.
 
-Live app: https://dominosaurs.github.io/sql-converter/
+Live app: https://zainphp.github.io/sql-converter/
 
 ## ✨ Why This Exists
 
@@ -31,7 +31,7 @@ Firefox and Safari may not support the required `showSaveFilePicker` API for lar
 
 ## 🚀 Usage
 
-1. Open https://dominosaurs.github.io/sql-converter/
+1. Open https://zainphp.github.io/sql-converter/
 2. Select a MariaDB/MySQL `.sql` dump file.
 3. Choose where to save the converted SQLite SQL file.
 4. Wait for conversion to finish.
