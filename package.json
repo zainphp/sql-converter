@@ -1,6 +1,6 @@
 {
     "bugs": {
-        "url": "https://github.com/dominosaurs/sql-converter/issues"
+        "url": "https://github.com/zainphp/sql-converter/issues"
     },
     "dependencies": {
         "react": "^19.2.6",
@@ -20,7 +20,7 @@
         "typescript": "^6.0.3",
         "vite": "^8.0.14"
     },
-    "homepage": "https://dominosaurs.github.io/sql-converter/",
+    "homepage": "https://zainphp.github.io/sql-converter/",
     "keywords": [
         "sql",
         "sqlite",
@@ -35,7 +35,7 @@
     "private": true,
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/dominosaurs/sql-converter.git"
+        "url": "git+https://github.com/zainphp/sql-converter.git"
     },
     "scripts": {
         "build": "tsc -b && vite build",
